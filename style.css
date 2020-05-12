@@ -1,0 +1,31 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "Cookie", cursive;
+  font-size: 60px;
+  background: linear-gradient(to right, #56ccf2, #2f80ed);
+}
+
+.top {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 20px;
+  color: azure;
+}
+
+.log-boolean,
+.log-undefined {
+  color: magenta;
+}
+.log-object,
+.log-string {
+  color: orange;
+}
+.log-number {
+  color: cyan;
+}
