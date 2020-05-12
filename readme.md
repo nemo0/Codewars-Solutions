@@ -10,7 +10,7 @@ This Repo is a solution of problems solved by me in the [CodeWars](https://www.c
 
 ## Solutions
 
-### ArrayDiff
+### 1. ArrayDiff
 
 ```javascript
 const arrayDiff = (a, b) => {
